@@ -78,6 +78,9 @@ export function WelcomeBanner() {
         <button onClick={() => window.open('https://t.me/+P_d-c8BmcMdkZDZk')}>
           💬 Telegram
         </button>
+        <button onClick={() => window.open('https://t.me/+P_d-c8BmcMdkZDZk')}>
+          💬 Telegram
+        </button>
       </Buttons>
     </Welcome>
   )
