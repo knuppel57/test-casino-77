@@ -11,7 +11,7 @@ const StyledToasts = styled.div`
   z-index: 101;
   display: flex;
   flex-direction: column-reverse;
-  gap: 1px;
+  gap: 10px;
   padding: 20px;
   width: 100%;
 
@@ -25,7 +25,7 @@ const StyledToasts = styled.div`
 
 const StackedToast = styled.div`
   background: #e8e8e8e3;
-  width: 100%;
+  width: 200%;
   border-radius: 10px;
   height: 60px;
   transform: translateY(-60px);
