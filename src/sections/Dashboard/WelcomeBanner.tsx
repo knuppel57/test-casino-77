@@ -24,7 +24,7 @@ const Buttons = styled.div`
   & > button {
     border: none;
     width: 100%;
-    border-radius: 10px;
+    border-radius: 100px;
     padding: 10px;
     background: #3ae121;
     transition: background .2s ease;
