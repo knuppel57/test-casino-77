@@ -15,7 +15,7 @@ export const GAMES: GameBundle[] = [
   {
     id: 'dice',
     meta: {
-      background: '#ff6490',
+      background: '#5A0361',
       name: 'Dice',
       image: '/games/dice.png',
       description: `
