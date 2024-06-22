@@ -65,7 +65,10 @@ export function ShareModal({ event, onClose }: {event: GambaTransaction<'GameSet
             </div>
           </Content>
         </Inner>
-        <Flex>
+      </Container>
+    </Modal>
+  )
+}
       </Container>
     </Modal>
   )
