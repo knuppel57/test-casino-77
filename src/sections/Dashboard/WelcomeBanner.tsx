@@ -63,7 +63,7 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>Welcome</h1>
+        <h1>Joker Casino</h1>
         <p>
           
         </p>
