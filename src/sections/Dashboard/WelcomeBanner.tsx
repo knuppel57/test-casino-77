@@ -26,7 +26,7 @@ const Buttons = styled.div`
     width: 100%;
     border-radius: 100px;
     padding: 10px;
-    background: #3ae121;
+    background: #1da11f;
     transition: background .2s ease;
     &:hover {
       background: white;
