@@ -65,10 +65,7 @@ export function ShareModal({ event, onClose }: {event: GambaTransaction<'GameSet
             </div>
           </Content>
         </Inner>
-      </Container>
-    </Modal>
         <Flex>
-          <Flex>
           <GambaUi.Button size="small" onClick={() => window.open(`${EXPLORER_URL}/tx/${event.signature}`, '_blank')}>
             Verify
           </GambaUi.Button>
@@ -76,8 +73,6 @@ export function ShareModal({ event, onClose }: {event: GambaTransaction<'GameSet
             Play {game?.meta?.name}
           </GambaUi.Button>
         </Flex>
-  )
-}
       </Container>
     </Modal>
   )
