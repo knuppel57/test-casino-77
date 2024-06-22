@@ -15,7 +15,7 @@ export const GAMES: GameBundle[] = [
   {
     id: 'dice',
     meta: {
-      background: '#5A0361',
+      background: '#1da11f',
       name: 'Dice',
       image: '/games/dice.png',
       description: `
@@ -44,7 +44,7 @@ export const GAMES: GameBundle[] = [
          Ah, Flip, the quintessential quandary of chaos! Imagine, if you will, a coin twirling in the air, a simple yet scintillating gamble. Heads or Tails, the choice is yours! Double your money with a single flip or watch it vanish into the void. A game so pure, so primal, it pits your luck against the fates themselves. Each flip, a test of your nerve, your decision-making dancing on the edge of oblivion. Heads, you win; tails, you lose! The thrill, the agony, the ecstasy of chance! Ha ha ha!
       `,
       image: '/games/flip.png',
-      background: '#5A0361',
+      background: '#1da11f',
     },
     app: React.lazy(() => import('./Flip')),
   },
@@ -81,7 +81,7 @@ export const GAMES: GameBundle[] = [
       description: `
         Roulette, my fiendish friends, is the grand gala of gambling brought to life in digital decadence! Spin the wheel, place your bets, and let the little ball of fate dance across the numbers. Will it land on your lucky spot or dash your dreams into dust? The rules are as simple as a joker's jibe, yet the rewards—oh, the rewards—are as grand as Gotham's tallest towers. A timeless tempest of chance and fortune, where every spin teeters on the edge of triumph or tragedy. Come, take a whirl, and let the wheel decide your destiny! Ha ha ha!
       `,
-      background: '#5A0361',
+      background: '#1da11f',
     },
     app: React.lazy(() => import('./Roulette')),
   },
@@ -101,7 +101,7 @@ export const GAMES: GameBundle[] = [
   {
     id: 'crash',
     meta: {
-      background: '#5A0361',
+      background: '#1da11f',
       image: '/games/crash.png',
       name: 'Crash',
       description: `
