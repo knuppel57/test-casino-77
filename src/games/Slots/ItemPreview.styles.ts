@@ -7,7 +7,7 @@ export const StyledItemPreview = styled.div`
   & > div {
     position: relative;
     width: 50px;
-    aspect-ratio: 1/1.5;
+    aspect-ratio: 2/3;
     border-radius: 5px;
     border: 1px solid #2d2d57;
   }
