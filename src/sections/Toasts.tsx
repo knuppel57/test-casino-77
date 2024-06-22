@@ -11,7 +11,7 @@ const StyledToasts = styled.div`
   z-index: 101;
   display: flex;
   flex-direction: column-reverse;
-  gap: 10px;
+  gap: 1px;
   padding: 20px;
   width: 100%;
 
