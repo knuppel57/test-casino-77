@@ -6,7 +6,7 @@ export const RPC_ENDPOINT = import.meta.env.VITE_RPC_ENDPOINT ?? 'https://mainne
 
 // Solana address that will receive fees when somebody plays on this platform
 export const PLATFORM_CREATOR_ADDRESS = new PublicKey(
-  '5y2PSqcWe38jmSPG93AbpFZ3UBd4gwQN3R7fQMU578qa',
+  '98a9hKosmLTtS3Bg4HSTHRewbR5MS4xREJPr7BrhUp4',
 )
 
 // Gamba explorer URL - Appears in RecentPlays
