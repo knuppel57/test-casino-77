@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Container = styled.div`
   color: white;
   user-select: none;
-  width: min(200vw, 420px);
+  width: min(100vw, 420px);
   font-size: 20px;
 `
 
