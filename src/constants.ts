@@ -73,15 +73,15 @@ export const TOKEN_METADATA: (Partial<TokenMeta> & {mint: PublicKey})[] = [
 
 /** HTML to display to user that they need to accept in order to continue */
 export const TOS_HTML = `
-  <p><b>1. Age Requirement:</b> Must be at least 18 years old.</p>
-  <p><b>2. Legal Compliance:</b> Follow local laws responsibly.</p>
-  <p><b>3. Risk Acknowledgement:</b> Games involve risk; no guaranteed winnings.</p>
-  <p><b>4. No Warranty:</b> Games provided "as is"; operate randomly.</p>
-  <p><b>5. Limitation of Liability:</b> We're not liable for damages.</p>
-  <p><b>6. Licensing Disclaimer:</b> Not a licensed casino; for simulation only.</p>
-  <p><b>7. Fair Play:</b> Games are conducted fairly and transparently.</p>
-  <p><b>8. Data Privacy:</b> Your privacy is important to us.</p>
-  <p><b>9. Responsible Gaming:</b> Play responsibly; seek help if needed.</p>
+<p><b>1. Age Requirement:</b> Only those 18 years and older can play in this perilous playground.</p>
+<p><b>2. Legal Compliance:</b> Abide by your local laws, lest you find yourself on the wrong side of the law, ha!</p>
+<p><b>3. Risk Acknowledgement:</b> These games are a gamble, my friends. No guaranteed winnings here, just the thrill of the risk!</p>
+<p><b>4. No Warranty:</b> Our games come "as is," operating randomly, like a chaotic carnival of chance!</p>
+<p><b>5. Limitation of Liability:</b> We're not liable for any damages. Play at your own peril, ha ha ha!</p>
+<p><b>6. Licensing Disclaimer:</b> This isn’t a licensed casino, just a simulation of the splendid chaos!</p>
+<p><b>7. Fair Play:</b> Rest assured, our games are conducted fairly and transparently, no tricks up our sleeves.</p>
+<p><b>8. Data Privacy:</b> Your secrets are safe with us. We value your privacy!</p>
+<p><b>9. Responsible Gaming:</b> Play responsibly, my dear players. If the fun turns foul, seek help.</p>
 `
 
 /**
