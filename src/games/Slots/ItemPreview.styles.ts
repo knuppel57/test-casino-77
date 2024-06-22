@@ -33,7 +33,7 @@ export const StyledItemPreview = styled.div`
     top: 0;
     transform: translate(50%, -50%);
     color: black;
-    background: #ffec63;
+    background: #1da11f;
     z-index: 10;
     padding: 0 2px;
     border-radius: 2px;
