@@ -37,26 +37,27 @@ const Buttons = styled.div`
 `
 
 const Welcome = styled.div`
-  @keyframes welcome-fade-in {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  background-image: url('banner.png'); 
+  background-size: cover;
+  background-position: center; 
 
-  @keyframes backgroundGradient {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
+  @media (min-width: 800px) {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding: 0;
+    & > div {
+      padding: 40px;
     }
   }
+`
 
   background: linear-gradient(-45deg, #ffb07c, #ff3e88, #2969ff, #ef3cff, #ff3c87);
   background-size: 300% 300%;
