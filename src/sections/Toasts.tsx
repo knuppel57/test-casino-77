@@ -15,7 +15,7 @@ const StyledToasts = styled.div`
   padding: 20px;
   width: 100%;
 
-  @media (min-width: 800px) {
+  @media (min-width: 1600px) {
     width: unset;
     top: unset;
     bottom: 0px;
@@ -25,7 +25,7 @@ const StyledToasts = styled.div`
 
 const StackedToast = styled.div`
   background: #e8e8e8e3;
-  width: 200%;
+  width: 100%;
   border-radius: 10px;
   height: 60px;
   transform: translateY(-60px);
