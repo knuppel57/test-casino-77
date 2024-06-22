@@ -45,7 +45,7 @@ const Welcome = styled.div`
   justify-content: center;
   flex-direction: column;
   padding: 20px;
-  background-image: url('banner.gif'); 
+  background-image: url('banner.png'); 
   background-size: cover;
   background-position: center; 
 
