@@ -91,7 +91,7 @@ export default function RecentPlays() {
         ),
       )}
       <GambaUi.Button main onClick={() => window.open(`${EXPLORER_URL}/platform/${PLATFORM_CREATOR_ADDRESS.toString()}`)}>
-         Explorer
+         why so serious?
       </GambaUi.Button>
     </Container>
   )
