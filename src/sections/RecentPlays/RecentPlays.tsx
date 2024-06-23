@@ -90,9 +90,6 @@ export default function RecentPlays() {
           </Recent>
         ),
       )}
-      <GambaUi.Button main onClick={() => window.open(`${EXPLORER_URL}/platform/${PLATFORM_CREATOR_ADDRESS.toString()}`)}>
-         Why so serious?
-      </GambaUi.Button>
       <h3 style={{ textAlign: 'center' }}>Why so serious 2?</h3>
     </Container>
   )
