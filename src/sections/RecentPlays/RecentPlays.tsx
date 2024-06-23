@@ -94,5 +94,6 @@ export default function RecentPlays() {
          Why so serious?
       </GambaUi.Button>
     </Container>
+    <h3 style={{ textAlign: 'center' }}>Why so serious 2?</h3>
   )
 }
