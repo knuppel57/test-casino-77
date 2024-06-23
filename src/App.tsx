@@ -82,20 +82,20 @@ export default function App() {
 <h1 style={{ textAlign: 'center' }}></h1>      
 <h1 style={{ textAlign: 'center' }}></h1>      
 <h1 style={{ textAlign: 'center' }}></h1>   
-<h3 style={{ textAlign: 'center' }}> In a market that’s in flames only one coin can rise. That’s the $JOKE</h3>
+<h3 style={{ textAlign: 'center' }}> ~ In a market that’s in flames only one coin can rise. That’s the $JOKE ~</h3>
 <h1 style={{ textAlign: 'center' }}></h1>      
 <h1 style={{ textAlign: 'center' }}></h1>      
 <h1 style={{ textAlign: 'center' }}></h1>         
 <h1 style={{ textAlign: 'center' }}>Road map</h1>       
-     
+<h1 style={{ textAlign: 'center' }}></h1>  
+        
 <h2 style={{ textAlign: 'center' }}> Fase 1: Launch on pump.fun</h2>
-<h3 style={{ textAlign: 'center' }}> Build community </h3>
-<h3 style={{ textAlign: 'center' }}> Grow X account </h3>
+<h3 style={{ textAlign: 'center' }}> Build community - Grow X account</h3>
+<h3 style={{ textAlign: 'center' }}>  </h3>
 
-<h2 style={{ textAlign: 'center' }}> Fase 2: Raydium</h2>
-<h3 style={{ textAlign: 'center' }}> Grow community</h3>
-<h3 style={{ textAlign: 'center' }}> Dex update </h3>
-<h3 style={{ textAlign: 'center' }}> Grow organically </h3>
+<h2 style={{ textAlign: 'center' }}> Fase 2: Raydium </h2>
+<h3 style={{ textAlign: 'center' }}> Grow community - Dex update - Grow organically </h3>
+<h3 style={{ textAlign: 'center' }}>  </h3>
 
 <h2 style={{ textAlign: 'center' }}> Fase 3: Listing - NFT</h2>
 <h3 style={{ textAlign: 'center' }}> List $JOKE everywhere </h3>
