@@ -90,7 +90,6 @@ export default function RecentPlays() {
           </Recent>
         ),
       )}
-      <h2 style={{ textAlign: 'center' }}>Why so serious?</h2>
     </Container>
   )
 }
