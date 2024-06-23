@@ -88,9 +88,9 @@ export default function App() {
 <h1 style={{ textAlign: 'center' }}></h1>         
 <h1 style={{ textAlign: 'center' }}>Road map</h1>       
 <h1 style={{ textAlign: 'center' }}></h1>  
-        
-<h2 style={{ textAlign: 'center' }}> Fase 1: Launch on pump.fun</h2>
-<h3 style={{ textAlign: 'center' }}> Build community - Grow X account</h3>
+<h3 style={{ textAlign: 'center' }}></h3>       
+<h2 style={{ textAlign: 'center' }}> Fase 1: Launch on pump.fun </h2>
+<h3 style={{ textAlign: 'center' }}> Build community - Grow X account </h3>
 <h3 style={{ textAlign: 'center' }}>  </h3>
 
 <h2 style={{ textAlign: 'center' }}> Fase 2: Raydium </h2>
