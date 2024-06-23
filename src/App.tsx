@@ -87,7 +87,7 @@ export default function App() {
 <h3 style={{ textAlign: 'center' }}> Grow X account </h3>
 
 <h2 style={{ textAlign: 'center' }}> Fase 2: Raydium</h2>
-<h3 style={{ textAlign: 'center' }}> Grow community </h3>
+<h3 style={{ textAlign: 'center' }}> Grow community</h3>
 <h3 style={{ textAlign: 'center' }}> Dex update </h3>
 <h3 style={{ textAlign: 'center' }}> Grow organically </h3>
 
