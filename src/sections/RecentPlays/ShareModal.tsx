@@ -10,7 +10,7 @@ import { extractMetadata } from '../../utils'
 
 const Container = styled.div`
   display: grid;
-  gap: 10px;
+  gap: 5px;
   padding: 20px;
   padding-bottom: 0;
   width: 100%;
