@@ -77,6 +77,27 @@ export default function App() {
         </Routes>
         <h2 style={{ textAlign: 'center' }}>Why so serious?</h2>
           <h3 style={{ textAlign: 'center' }}>Why so serious 2?</h3>
+
+<h1>Road map</h1>       
+)     
+<h3># In a market that’s in flames only one coin can rise. That’s the $JOKE</h3>
+)
+<h2>## Fase 1: Launch on pump.fun</h2>
+<h3>- Build community </h3>
+<h3>- Grow X account </h3>
+)
+<h2>## Fase 2: Raydium</h2>
+<h3>- Grow community </h3>
+<h3>- Dex update </h3>
+<h3>- Grow organically </h3>
+)
+<h2>## Fase 3: Listing - NFT</h2>
+<h3>- List $JOKE everywhere </h3>
+<h3>- Get partners for $JOKE and make their tokens playable in our casino </h3>
+)
+<h2>## Fase 4: Profit sharing</h2>
+<h3>- Launch a NFT program for profit sharing of the casino income </h3>
+<h3>- moon </h3>
         <RecentPlays />
       </MainWrapper>
     </>
