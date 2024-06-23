@@ -78,7 +78,7 @@ export default function App() {
         <h2 style={{ textAlign: 'center' }}>Why so serious?</h2>
         <RecentPlays />       
 
-<h1> style={{ textAlign: 'center' }}>Road map</h1>       
+<h1 style={{ textAlign: 'center' }}>Road map</h1>       
      
 <h3 style={{ textAlign: 'center' }}> In a market that’s in flames only one coin can rise. That’s the $JOKE</h3>
 
