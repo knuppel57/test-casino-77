@@ -80,24 +80,24 @@ export default function App() {
 
 <h1>Road map</h1>       
      
-<h3> In a market that’s in flames only one coin can rise. That’s the $JOKE</h3>
+<h3 style={{ textAlign: 'center' }}> In a market that’s in flames only one coin can rise. That’s the $JOKE</h3>
 
-<h2>  Fase 1: Launch on pump.fun</h2>
-<h3>- Build community </h3>
-<h3>- Grow X account </h3>
+<h2 style={{ textAlign: 'center' }}> Fase 1: Launch on pump.fun</h2>
+<h3 style={{ textAlign: 'center' }}> Build community </h3>
+<h3 style={{ textAlign: 'center' }}> Grow X account </h3>
 
-<h2> Fase 2: Raydium</h2>
-<h3>- Grow community </h3>
-<h3>- Dex update </h3>
-<h3>- Grow organically </h3>
+<h2 style={{ textAlign: 'center' }}> Fase 2: Raydium</h2>
+<h3 style={{ textAlign: 'center' }}> Grow community </h3>
+<h3 style={{ textAlign: 'center' }}> Dex update </h3>
+<h3 style={{ textAlign: 'center' }}> Grow organically </h3>
 
-<h2> Fase 3: Listing - NFT</h2>
-<h3>- List $JOKE everywhere </h3>
-<h3>- Get partners for $JOKE and make their tokens playable in our casino </h3>
+<h2 style={{ textAlign: 'center' }}> Fase 3: Listing - NFT</h2>
+<h3 style={{ textAlign: 'center' }}> List $JOKE everywhere </h3>
+<h3 style={{ textAlign: 'center' }}> Get partners for $JOKE and make their tokens playable in our casino </h3>
 
-<h2> Fase 4: Profit sharing</h2>
-<h3>- Launch a NFT program for profit sharing of the casino income </h3>
-<h3>- moon </h3>
+<h2 style={{ textAlign: 'center' }}> Fase 4: Profit sharing</h2>
+<h3 style={{ textAlign: 'center' }}> Launch a NFT program for profit sharing of the casino income </h3>
+<h3 style={{ textAlign: 'center' }}> moon </h3>
 
       </MainWrapper>
     </>
