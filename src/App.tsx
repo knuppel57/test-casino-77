@@ -77,11 +77,7 @@ export default function App() {
         </Routes>
       <h2 style={{ textAlign: 'center' }}>Why so serious? $JOKE</h2>
         <h2 style={{ textAlign: 'center' }}></h2>
-        <RecentPlays />       
-
-<h1 style={{ textAlign: 'center' }}></h1>      
-<h1 style={{ textAlign: 'center' }}></h1>      
-<h1 style={{ textAlign: 'center' }}></h1>   
+        <RecentPlays />        
 <h3 style={{ textAlign: 'center' }}> ~ In a market that’s in flames only one coin can rise. That’s the $JOKE ~</h3>
 <h1 style={{ textAlign: 'center' }}></h1>      
 <h1 style={{ textAlign: 'center' }}></h1>      
