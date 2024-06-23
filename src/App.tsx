@@ -75,8 +75,8 @@ export default function App() {
           <Route path="/" element={<Dashboard />} />
           <Route path="/:gameId" element={<Game />} />
         </Routes>
-        <h2 style={{ textAlign: 'center' }}>Why so serious?</h2>
-          <h1 style={{ textAlign: 'center' }}>Why so serious 2?</h1>
+        <h1 style={{ textAlign: 'center' }}>Why so serious?</h1>
+          <h3 style={{ textAlign: 'center' }}>Why so serious 2?</h3>
         <RecentPlays />
       </MainWrapper>
     </>
